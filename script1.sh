@@ -1,4 +1,6 @@
-echo "Script 1 version "
-touch text.txt
-echo "Text file created"
+echo "first script"
 ls -la
+touch text1.txt
+touch text2.txt
+ls -la
+echo "end of first sript"

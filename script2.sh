@@ -1,4 +1,6 @@
-echo "Script2"
-rm text.txt
-echo "Text file removed"
+echo "second script"
 ls -la
+rm text1.txt
+rm text2.txt
+ls -la
+echo "end of second script"
